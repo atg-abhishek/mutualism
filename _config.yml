@@ -69,7 +69,7 @@ author:
     - label: "Abhishek's Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/atg_abhishek"
-    - label: "LinkedIn"
+    - label: "Abhishek's LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/abhishekguptamcgill/"
     - label: "Alice's Website"
@@ -87,7 +87,7 @@ footer:
     - label: "Abhishek's Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/atg_abhishek"
-    - label: "LinkedIn"
+    - label: "Abhishek's LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/abhishekguptamcgill/"
     - label: "Alice's Website"
@@ -123,3 +123,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "mutualism"
